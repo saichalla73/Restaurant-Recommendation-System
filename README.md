@@ -29,14 +29,7 @@ test_recommendation.py
 3. **Output:**
     - If restaurants matching the entered cuisine are found in the database, the script will display their names, cuisines, ratings, and locations.
     - If no matching restaurants are found or if the input is invalid, an appropriate message will be displayed.
-## Example Usage:
 
-```bash
-$ python restaurant_recommender.py
-Enter the type of food you desire: Italian
-Recommended restaurants:
-Name: Little Italy, Cuisine: Italian, Rating: 4.4, Location: Jubilee Hills
-Name: Prego, Cuisine: Italian, Rating: 4.3, Location: Madhapur
 
 
 ## File Structure
@@ -77,6 +70,10 @@ Name: Prego, Cuisine: Italian, Rating: 4.3, Location: Madhapur
 - Ensure the dictionary keys remain consistent: "Restaurant name", "Cuisine", "Rating", and "Location".
 
 
+## Example Usage:
+
+```bash
+$ python restaurant_recommender.py
 Enter the type of food you desire: Italian
 Recommended restaurants:
 Name: Little Italy, Cuisine: Italian, Rating: 4.4, Location: Jubilee Hills
