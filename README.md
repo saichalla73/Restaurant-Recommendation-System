@@ -14,6 +14,21 @@ After installation, opened cmd ->> entered python --version, to check if it is i
 restaurant_recommendation.py
 test_recommendation.py
 
+## How to Use
+
+1. **Running the Script:**
+    - After Ensuring I have Python installed in my system.
+    - In a terminal or command prompt.
+    - Navigate to the directory containing the `restaurant_recommender.py` file.
+    - Run the script by executing `python restaurant_recommender.py`.
+
+2. **Input:**
+    - The script will prompt you to enter the type of food you desire.
+    - user can enter their desired food type like "Italian", "Italian, European", "Seafood, Goan" etc..
+
+3. **Output:**
+    - If restaurants matching the entered cuisine are found in the database, the script will display their names, cuisines, ratings, and locations.
+    - If no matching restaurants are found or if the input is invalid, an appropriate message will be displayed.
 
 ## File Structure
 
@@ -44,21 +59,7 @@ test_recommendation.py
 - **Display Recommendations:** Shows details of recommended restaurants (name, cuisine, rating, location).
 - **Invalid Input Handling:** Manages cases of no matches or invalid input.
 
-## How to Use
 
-1. **Running the Script:**
-    - After Ensuring I have Python installed in my system.
-    - In a terminal or command prompt.
-    - Navigate to the directory containing the `restaurant_recommender.py` file.
-    - Run the script by executing `python restaurant_recommender.py`.
-
-2. **Input:**
-    - The script will prompt you to enter the type of food you desire.
-    - user can enter their desired food type like "Italian", "Italian, European", "Seafood, Goan" etc..
-
-3. **Output:**
-    - If restaurants matching the entered cuisine are found in the database, the script will display their names, cuisines, ratings, and locations.
-    - If no matching restaurants are found or if the input is invalid, an appropriate message will be displayed.
 
 
 ## Modifications and Data Addition
