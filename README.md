@@ -36,7 +36,7 @@ test_recommendation.py
 - `test_recommendation.py: It Contains Test Cases
 - `README.md`: This file, providing instructions and information about the script.
 
-### Functions Used:
+## Functions Used:
 
 1. **`get_user_input()` Function:**
     - **Purpose:** Retrieves user input for the desired cuisine type.
