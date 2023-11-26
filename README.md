@@ -9,8 +9,9 @@ This Python script recommends restaurants based on the type of cuisine entered b
 ## Setup Instructions
 
 Firstly installed python latest version from the official webiste. Used this link: (https://www.python.org/) for installing.
-After installation, opened cmd ->> entered python --version, to check if it is installed and up to date. Later, using cmd, created two files :
+After installation, opened cmd ->> entered python --version, to check if it is installed and up to date.
 
+Later, using cmd, created two files :
 restaurant_recommendation.py
 test_recommendation.py
 
@@ -19,12 +20,12 @@ test_recommendation.py
 1. **Running the Script:**
     - After Ensuring I have Python installed in my system.
     - In a terminal or command prompt.
-    - Navigate to the directory containing the `restaurant_recommender.py` file.
-    - Run the script by executing `python restaurant_recommender.py`.
+    - Navigate to the directory containing the `restaurant_recommendation.py` file.
+    - Run the script.
 
 2. **Input:**
     - The script will prompt you to enter the type of food you desire.
-    - user can enter their desired food type like "Italian", "Italian, European", "Seafood, Goan" etc..
+    - User can enter their desired food type like "Italian", "Italian, European", "Seafood, Goan" etc..
 
 3. **Output:**
     - If restaurants matching the entered cuisine are found in the database, the script will display their names, cuisines, ratings, and locations.
