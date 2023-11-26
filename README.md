@@ -2,24 +2,24 @@
 # Program Overview
 The program is designed to recommend restaurants in Hyderabad based on the type of cuisine the user desires. It consists of several components:
 
-`get_user_input() Function:
+1.`get_user_input() Function:
 
 This function takes user input for the type of food/cuisine they desire.
 
-restaurants Data Structure:
+2.restaurants Data Structure:
 
 Contains information about various restaurants in Hyderabad in the form of a list of dictionaries. Each dictionary represents a restaurant with keys such as "Restaurant name", "Cuisine", "Rating", and "Location".
 
-recommend_restaurants() Function:
+3.recommend_restaurants() Function:
 
 Takes the user input as an argument and matches it with the restaurants' cuisines in the restaurants list.
 If there are matches, it creates a list of recommended restaurants based on the user's desired cuisine.
 
-handle_invalid_input() Function:
+4.handle_invalid_input() Function:
 
 Handles cases where the user enters an invalid or unavailable cuisine type.
 
-Execution Logic:
+5.Execution Logic:
 
 Retrieves user input for the type of cuisine.
 Uses the recommend_restaurants() function to find restaurants that match the user's input.
