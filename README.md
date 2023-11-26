@@ -15,6 +15,14 @@ Later, using cmd, created two files :
 restaurant_recommendation.py
 test_recommendation.py
 
+Created a file from cmd to VS code, using below commands:
+
+C:\projectdirectory>type nul > restaurant_recommendation.py
+
+C:\projectdirectory>type nul > test_recommendation.py
+
+C:\projectdirectory>code .
+
 ## How to Use
 
 1. **Running the Script:**
