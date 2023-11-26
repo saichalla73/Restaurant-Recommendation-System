@@ -52,6 +52,13 @@ test_recommendation.py
 4. **`handle_invalid_input()` Function:**
     - **Purpose:** Manages cases of invalid user input for cuisine types.
 
+### Execution Flow:
+
+- **User Input:** Prompts the user to enter a desired cuisine.
+- **Recommendation Search:** Matches user input against stored restaurants' cuisines.
+- **Display Recommendations:** Shows details of recommended restaurants (name, cuisine, rating, location).
+- **Invalid Input Handling:** Manages cases of no matches or invalid input.
+
 ## Modifications and Data Addition
 
 - To modify or add more restaurants, update the `restaurants` list of dictionaries in the `restaurant_recommendation.py` file.
