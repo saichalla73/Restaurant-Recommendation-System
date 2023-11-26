@@ -2,7 +2,6 @@
 # Program Overview
 The program is designed to recommend restaurants in Hyderabad based on the type of cuisine the user desires. It consists of several components:
 
-
 # Restaurant Recommender
 
 This Python script recommends restaurants based on the type of cuisine entered by the user.
@@ -37,7 +36,7 @@ test_recommendation.py
 - `test_recommendation.py: It Contains Test Cases
 - `README.md`: This file, providing instructions and information about the script.
 
-  ### Functions:
+### Functions Used:
 
 1. **`get_user_input()` Function:**
     - **Purpose:** Retrieves user input for the desired cuisine type.
