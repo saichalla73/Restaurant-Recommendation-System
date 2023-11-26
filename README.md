@@ -2,21 +2,7 @@
 # Program Overview
 The program is designed to recommend restaurants in Hyderabad based on the type of cuisine the user desires. It consists of several components:
 
-### Functions:
 
-1. **`get_user_input()` Function:**
-    - **Purpose:** Retrieves user input for the desired cuisine type.
-    
-2. **`restaurants` Data Structure:**
-    - **Purpose:** Stores restaurant information for various eateries in Hyderabad.
-    - **Format:** List of dictionaries, each representing a restaurant.
-    - **Dictionary Keys:** "Restaurant name", "Cuisine", "Rating", "Location".
-
-3. **`recommend_restaurants()` Function:**
-    - **Purpose:** Generates a list of restaurants matching the user's desired cuisine.
-    
-4. **`handle_invalid_input()` Function:**
-    - **Purpose:** Manages cases of invalid user input for cuisine types.
 # Restaurant Recommender
 
 This Python script recommends restaurants based on the type of cuisine entered by the user.
@@ -50,6 +36,22 @@ test_recommendation.py
 - `restaurant_recommendation.py`: Contains the Python script for restaurant recommendation.
 - `test_recommendation.py: It Contains Test Cases
 - `README.md`: This file, providing instructions and information about the script.
+
+  ### Functions:
+
+1. **`get_user_input()` Function:**
+    - **Purpose:** Retrieves user input for the desired cuisine type.
+    
+2. **`restaurants` Data Structure:**
+    - **Purpose:** Stores restaurant information for various eateries in Hyderabad.
+    - **Format:** List of dictionaries, each representing a restaurant.
+    - **Dictionary Keys:** "Restaurant name", "Cuisine", "Rating", "Location".
+
+3. **`recommend_restaurants()` Function:**
+    - **Purpose:** Generates a list of restaurants matching the user's desired cuisine.
+    
+4. **`handle_invalid_input()` Function:**
+    - **Purpose:** Manages cases of invalid user input for cuisine types.
 
 ## Modifications and Data Addition
 
