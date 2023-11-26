@@ -78,3 +78,5 @@ Enter the type of food you desire: Italian
 Recommended restaurants:
 Name: Little Italy, Cuisine: Italian, Rating: 4.4, Location: Jubilee Hills
 Name: Prego, Cuisine: Italian, Rating: 4.3, Location: Madhapur
+
+![image](https://github.com/saichalla73/Restaurant-Recommendation-System/assets/140317790/c4ab870d-1aa7-4fe1-900d-623ee2c5a0d6)
