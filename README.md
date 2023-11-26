@@ -12,7 +12,7 @@ Firstly installed python latest version from the official webiste. Used this lin
 After installation, opened cmd ->> entered python --version, to check if it is installed and up to date.
 
 Later, using cmd, created two files :
-restaurant_recommendation.py
+restaurant_recommendation.py,
 test_recommendation.py
 
 Created a file from cmd to VS code, using below commands:
