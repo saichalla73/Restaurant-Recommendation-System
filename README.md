@@ -73,7 +73,7 @@ test_recommendation.py
 ## Example Usage:
 
 ```bash
-$ python restaurant_recommender.py
+
 Enter the type of food you desire: Italian
 Recommended restaurants:
 Name: Little Italy, Cuisine: Italian, Rating: 4.4, Location: Jubilee Hills
