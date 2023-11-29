@@ -46,6 +46,7 @@ C:\projectdirectory>code .
 - `restaurant_recommendation.py`: Contains the Python script for restaurant recommendation.
 - `test_recommendation.py: It Contains Test Cases
 - `README.md`: This file, providing instructions and information about the script.
+- `Test cases`:I have added a file of screenshots with the test cases in a zip file. Please download and have a look.
 
 ## Functions Used:
 
